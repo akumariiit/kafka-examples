@@ -1,0 +1,3 @@
+org/springframework/kafka/support/serializer/ErrorHandlingDeserializer2.class
+com/kafka/sample/TestConsumer.class
+com/kafka/sample/App.class
